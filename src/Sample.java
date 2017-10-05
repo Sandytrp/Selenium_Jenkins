@@ -5,7 +5,7 @@ public class Sample {
 	
 	
 	@Test
-	public static void main(String[] args) {
+	public void main1() {
 		System.out.println("Hello Selenium");
 		Assert.assertTrue(false);
 
